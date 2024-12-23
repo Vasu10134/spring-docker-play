@@ -1,2 +1,4 @@
+Dockerfile linguist-language=Docker
+
 /mvnw text eol=lf
 *.cmd text eol=crlf
